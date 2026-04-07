@@ -21,7 +21,6 @@ Cette version est une **miroir** du script disponible sur phpsources.net.
 
 👉 **[Télécharger Dolibarr ERP sur phpsources.net](https://phpsources.net/script/php/erp-crm/2030-10_dolibarr-erp,18.0.9)**
 
-*(Remplace le lien ci-dessus par l’URL réelle de la fiche Dolibarr sur ton site si tu veux être plus précis)*
 
 ### Licence
 Ce projet est distribué sous licence **MIT** – Vous êtes libre de l’utiliser, le modifier et le redistribuer.
