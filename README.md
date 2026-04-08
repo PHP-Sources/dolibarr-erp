@@ -1,33 +1,32 @@
 # Dolibarr ERP/CRM
 
-[![Website](https://img.shields.io/badge/Site%20Web-phpsources.net-007ACC?style=for-the-badge&logo=php&logoColor=white)](https://phpsources.net)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr%20erp.webp" width="48" height="48" alt="Dolibarr">
 
-**Dolibarr ERP/CRM Open Source** – Solution complète de gestion d’entreprise (ERP/CRM) en PHP/MySQL.
+**Dolibarr ERP/CRM 18.0.9** – Solution complète et open source de gestion d’entreprise (ERP/CRM) en PHP/MySQL.
 
-### Fonctionnalités principales
-- Gestion des tiers (clients, fournisseurs, prospects)
-- Facturation, devis, commandes et paiements
-- Gestion de stock et produits
-- Projets, interventions et agendas
-- Modules RH, comptabilité, banque, etc.
+### Points forts
+- Gestion des tiers, facturation, devis et commandes
+- Gestion de stock, produits et projets
+- Modules RH, comptabilité, banque et interventions
 - Hautement modulaire et extensible
+- Facile à installer et à utiliser
 
-### 📥 Version miroir sur GitHub
+### 📥 Accès rapide aux fichiers
 
-Cette version est une **miroir** du script disponible sur phpsources.net.
+**Explorez rapidement les fichiers via notre explorateur :**
 
-**Pour télécharger la version complète la plus récente, obtenir le support et toutes les mises à jour :**
+👉 **[📂 Explorer Dolibarr 18.0.9](https://phpsources.net/x7g3p2.php?id=2030&name=dolibarr-develop-18.0.9.zip)**
 
-👉 **[Télécharger Dolibarr ERP sur phpsources.net](https://phpsources.net/script/php/erp-crm/2030-10_dolibarr-erp,18.0.9)**
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
 
+👉 **[Dolibarr ERP sur phpsources.net](https://phpsources.net/script/php/erp-crm/2030-10_dolibarr-erp,18.0.9)**
 
 ### Licence
-Ce projet est distribué sous licence **MIT** – Vous êtes libre de l’utiliser, le modifier et le redistribuer.
+Distribué sous licence **MIT**.
 
 ### ⭐ Contribution
-Si ce dépôt vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
+Si cette solution ERP/CRM vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
 
 ---
 
-**Retrouvez des centaines d’autres scripts PHP sur → [phpsources.net](https://phpsources.net)**
+**Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
