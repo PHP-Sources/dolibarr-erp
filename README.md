@@ -1,6 +1,6 @@
 # Dolibarr ERP/CRM
 
-<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarr%20erp.webp" width="48" height="48" alt="Dolibarr">
+<img src="https://github.com/PHP-Sources/.github/raw/main/logos/dolibarrerp.webp" width="48" height="48" alt="Dolibarr">
 
 **Dolibarr ERP/CRM 18.0.9** – Solution complète et open source de gestion d’entreprise (ERP/CRM) en PHP/MySQL.
 
